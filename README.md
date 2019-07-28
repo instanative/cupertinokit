@@ -1,2 +1,2 @@
-# cupertinokit
-UI Framework in Swift to Create Beautiful iOS Apps Quickly
+# CupertinoKit
+SwiftUI Framework to Create Beautiful iOS Apps Quickly
